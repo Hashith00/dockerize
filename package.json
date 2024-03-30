@@ -1,0 +1,26 @@
+{
+  "name": "dockerize-node",
+  "version": "1.0.0",
+  "description": "This Packge helps to dockerize your node application in one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hashith00/dockerize.git"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "author": "Hashith Sithuruwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hashith00/dockerize/issues"
+  },
+  "homepage": "https://github.com/Hashith00/dockerize#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security"
+  }
+}
